@@ -1,0 +1,26 @@
+li{
+		float: left;
+	}
+
+		
+		#form li{
+			list-style: none;
+		}
+	.table{
+		border=2px  ;
+		align=center;
+		width: 120%;
+		line-height: 185%;
+		background: #a1f7ef;
+		border-style: groove;
+		text-align: initial;
+		padding: 8%;
+		margin-left:-10%;
+		
+	}
+	h3{
+		font-size:250%;
+	}
+	.seach{
+		padding-top:30px;
+	}
